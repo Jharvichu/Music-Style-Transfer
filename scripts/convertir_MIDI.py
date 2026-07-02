@@ -30,8 +30,8 @@ def convertir_npz_a_midi(ruta_npz, ruta_midi_salida):
         print(f"\n{rojo}[-] Error durante la conversión: {e}{fin}\n")
 
 if __name__ == '__main__':
-    archivo_entrada = 'dataset_limpio_17/Rap/TRAENSA128F1454820.npz'
-    archivo_salida  = 'Rap01.mid'
+    archivo_entrada = 'datasets_clasificados/lpd_5/Rock/TRABUCZ128F424163A.npz'
+    archivo_salida  = 'rock_greenday.mid'
     
     if not os.path.exists(archivo_entrada):
         print(f"{amarillo}[!] Configura la variable 'archivo_entrada' con la ruta de un .npz real.{fin}")
