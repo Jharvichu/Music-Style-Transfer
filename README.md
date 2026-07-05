@@ -75,4 +75,4 @@ Las etiquetas de género provienen de las anotaciones del Million Song Dataset (
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia incluida en el archivo [[LICENSE]]
+Este proyecto se distribuye bajo la licencia incluida en el archivo [LICENSE](https://github.com/Jharvichu/Music-Style-Transfer/blob/feat/modelo/LICENSE)
