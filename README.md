@@ -1,4 +1,4 @@
-# StarGAN-Music-Style-Transfer
+# Music-Style-Transfer
 
 ## Requisitos:
 
@@ -71,3 +71,8 @@ python scripts/evaluar_cyclegan.py
 Este proyecto utiliza el Lakh Pianoroll Dataset (LPD), derivado del Lakh MIDI Dataset. Las canciones se representan como matrices pianoroll (tiempo × altura de nota) almacenadas en formato .npz.
 
 Las etiquetas de género provienen de las anotaciones del Million Song Dataset (Tagtraum, Last.fm y AllMusic).
+
+
+## Licencia
+
+Este proyecto se distribuye bajo la licencia incluida en el archivo [[LICENSE]]
